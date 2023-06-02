@@ -1524,7 +1524,7 @@ label.srs-toggle {
 }
 
 li {
-    padding-bottom: var(--padding-thin);
+    /* padding-bottom: var(--padding-thin); */
 }
 
 a[href^="http"] {
