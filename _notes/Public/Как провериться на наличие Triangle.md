@@ -51,4 +51,5 @@ python -m triangle_check /путь/до/резервной-копии [паро�
 - [https://github.com/KasperskyLab/triangle_check](https://github.com/KasperskyLab/triangle_check) - скрипт для проверки
 
 ## Теги
+
 - [[iOS]]
