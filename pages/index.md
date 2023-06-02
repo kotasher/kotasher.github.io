@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-feedformat: card
+feedformat: row
 ---
