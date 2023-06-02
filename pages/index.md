@@ -4,6 +4,6 @@
 
 layout: Post
 permalink: /
-title: Блог
+title: Заметки
 feedformat: card
 ---
