@@ -45,7 +45,7 @@ python -m triangle_check /путь/до/резервной-копии [паро�
 2022-*-* DETECTED Exact match by NetTimestamp : BackupAgent
 ```
 
-## Внешние ссылки
+## Ссылки
 
 - [https://securelist.ru/operation-triangulation/107470/](https://securelist.ru/operation-triangulation/107470/) - описание атаки и IoC
 - [https://github.com/KasperskyLab/triangle_check](https://github.com/KasperskyLab/triangle_check) - скрипт для проверки
