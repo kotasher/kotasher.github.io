@@ -1,0 +1,15 @@
+.link-dzen {
+    background: rgb(243, 243, 242);
+    color: rgb(0, 0, 0);
+}
+
+.link-teletype {
+    /* background: rgb(243, 243, 242); */
+    /* color: rgb(0, 0, 0); */
+    
+}
+
+.link-teletype svg {
+    -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+            filter: invert(100%);
+}
