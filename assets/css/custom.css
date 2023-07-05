@@ -1,5 +1,5 @@
 .link-dzen {
-    background: rgb(243, 243, 242);
+    background: rgb(230, 230, 230);
     color: rgb(0, 0, 0);
 }
 
@@ -10,4 +10,9 @@
 .link-teletype svg {
     -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
             filter: invert(100%);
+}
+
+.link-hashnode {
+    background: rgb(41, 98, 255);
+    color: rgb(255, 255, 255);
 }
