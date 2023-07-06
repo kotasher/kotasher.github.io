@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
     { hashnode = { href = "https://hashnode.kiberdruzhinnik.ru", text="Hashnode" } },
     { dzen = { href = "https://dzen.ru/kiberdruzhinnik", text="Дзен" } },
     { github = { href = "https://github.com/kotasher", text="Github" } },
-    { linkedin = { href = "https://linkedin.com/in/kotasha-romanov", text = "Linkedin" } },
+    # { linkedin = { href = "https://linkedin.com/in/kotasha-romanov", text = "Linkedin" } },
     # { email = "mailto:hello@your_domain.com" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
